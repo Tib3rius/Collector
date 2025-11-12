@@ -14,16 +14,14 @@ Video demo available here: https://youtu.be/SsjlL1N1qgM
 - [Quick Start](#quick-start)
 - [Detailed Feature Guide](#detailed-feature-guide)
   - [Global Controls](#global-controls)
-  - [Buckets (Token Collections)](#buckets-token-collections)
-  - [Token Collection Rules](#token-collection-rules)
-  - [Token Replacement Rules](#token-replacement-rules)
-  - [Bucket Configuration](#bucket-configuration)
   - [Bucket Defaults](#bucket-defaults)
-  - [Token Management](#token-management)
   - [Import/Export](#importexport)
-- [Use Cases](#use-cases)
+  - [Buckets (Token Collections)](#buckets-token-collections)
+  - [Bucket Configuration](#bucket-configuration)
+  - [Token Collection Rules](#token-collection-rules)
+  - [Token Management](#token-management)
+  - [Token Replacement Rules](#token-replacement-rules)
 - [Building from Source](#building-from-source)
-- [Technical Details](#technical-details)
 
 ## Summary
 
