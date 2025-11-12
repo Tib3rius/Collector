@@ -2,6 +2,8 @@
 
 **Collector** is a mostly vibe-coded Burp Suite extension that enables automated collection and injection of dynamic tokens across HTTP requests and responses. It's designed to handle non-cookie session management, CSRF tokens, and any scenario where values need to be extracted from one request/response and used in subsequent ones.
 
+Video demo available here: https://youtu.be/SsjlL1N1qgM
+
 **DISCLAIMER:** This extension was mostly vibe-coded (including this README), so... use at your own risk.
 
 ## Table of Contents
