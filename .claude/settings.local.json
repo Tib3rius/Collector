@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew:*)",
+      "WebFetch(domain:portswigger.github.io)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
